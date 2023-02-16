@@ -1,5 +1,5 @@
 ### theft_transactions.csv 
-A list of NFTs suspected to have been stolen. The 'victim_address' field is the address of the alleged victim.
+A list of NFTs suspected to have been stolen via phishing. The 'victim_address' field is the address of the alleged victim.
 
 
 
